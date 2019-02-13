@@ -24,7 +24,8 @@ github_username:  chfast
 
 # Build settings
 markdown: kramdown
-theme: minima
+#theme: minima
+remote_theme: johno/pixyll
 plugins:
   - jekyll-feed
 
